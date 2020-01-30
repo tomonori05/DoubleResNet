@@ -15,7 +15,6 @@ from keras import optimizers,losses
 
 #from json_writer import json_write
 from tools import json_writer
-from tools import discord
 
 class ResNetTester:
 

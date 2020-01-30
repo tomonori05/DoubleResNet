@@ -7,6 +7,7 @@ from ResNetTester_cls import ResNetTester,make
 from Datasets import (cifer10_datasets,cifer100_datasets,mnist_dataset)
 
 
+# 結果の保存名
 name = "DoubleResNet_Test"
 
 epochs = 1
